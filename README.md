@@ -1,4 +1,6 @@
-# Perth Machine Learning Group Presentation
+# ML Workshop content
+
+Collection of material used in different ML workshops I've given or attended
 
 Presentation for [Perth Machine Learning Group](https://www.pmlg.org) on TensorFlow estimators
 
